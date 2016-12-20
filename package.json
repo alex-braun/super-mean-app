@@ -42,6 +42,6 @@
     "webpack-dev-server": "^1.14.1"
   },
   "engines": {
-    "node": "5.5.0"
+    "node": "4.6.1"
   }
 }
